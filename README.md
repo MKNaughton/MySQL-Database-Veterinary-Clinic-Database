@@ -19,7 +19,7 @@ The database is made up of 13 tables organised across four business areas:
 ## Database Diagrams
 
 ### Entity Relationship Diagram
-![ER Diagram](images/Vet_database_ER.png)
+![ER Diagram](Vet_database_ER.png)
 
 ### Clinical Operations
 
