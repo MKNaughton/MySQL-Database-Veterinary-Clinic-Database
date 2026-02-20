@@ -83,6 +83,9 @@ The database is designed for deployment on a local server within the clinic, wit
 
 ## Getting Started
 
+git clone https://github.com/MKNaughton/MySQL-Database-Veterinary-Clinic-Database.git
+cd MySQL-Database-Veterinary-Clinic-Database
+
 ### Prerequisites
 - MySQL Server (5.7 or higher)
 - MySQL Workbench or phpMyAdmin
